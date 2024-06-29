@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AisiriRAthrey
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I have been learning UI/UX and Web and App dev lately...
+- 💞️ I’m looking to collaborate anything and everything related to technology.
 - 📫 ping me at:  aisirir109@gmail.com
 
 <!---
